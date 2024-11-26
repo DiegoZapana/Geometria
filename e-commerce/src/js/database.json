@@ -5,7 +5,7 @@
 		"description": "Bananas",
 		"category": "Frutas",
 		"brand": "Marta Dzedyshko",
-		"price": 250,
+		"price": 5,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,
@@ -19,7 +19,7 @@
 		"description": "Calabaza",
 		"category": "Verduras",
 		"brand": "Sussane",
-		"price": 130,
+		"price": 13,
 		"extra": {
 			"hasDiscount": true,
 			"discountValue": 0.1,
@@ -33,7 +33,7 @@
 		"description": "Cebolla",
 		"category": "Verduras",
 		"brand": "Pixabay",
-		"price": 75,
+		"price": 7,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,
@@ -47,7 +47,7 @@
 		"description": "Frutillas",
 		"category": "Frutas",
 		"brand": "Engin Akyurt",
-		"price": 590,
+		"price": 5,
 		"extra": {
 			"hasDiscount": true,
 			"discountValue": 0.3,
@@ -61,7 +61,7 @@
 		"description": "Lechuga",
 		"category": "Verduras",
 		"brand": "NastyaSensei",
-		"price": 120,
+		"price": 10,
 		"extra": {
 			"hasDiscount": true,
 			"discountValue": 0.2,
@@ -75,7 +75,7 @@
 		"description": "Limas",
 		"category": "Frutas",
 		"brand": "Iconcom",
-		"price": 400,
+		"price": 40,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,
@@ -89,7 +89,7 @@
 		"description": "Limones",
 		"category": "Frutas",
 		"brand": "Lukas",
-		"price": 150,
+		"price": 10,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,
@@ -103,7 +103,7 @@
 		"description": "Mandarinas",
 		"category": "Frutas",
 		"brand": "Pixabay",
-		"price": 150,
+		"price": 15,
 		"extra": {
 			"hasDiscount": true,
 			"discountValue": 0.1,
@@ -117,7 +117,7 @@
 		"description": "Manzana Roja",
 		"category": "Frutas",
 		"brand": "RP Photography",
-		"price": 180,
+		"price": 10,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,
@@ -131,7 +131,7 @@
 		"description": "Manzana Verde",
 		"category": "Frutas",
 		"brand": "RP Photography",
-		"price": 150,
+		"price": 15,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,
@@ -145,7 +145,7 @@
 		"description": "Melon",
 		"category": "Fruta",
 		"brand": "Engin Akyurt",
-		"price": 150,
+		"price": 10,
 		"extra": {
 			"hasDiscount": true,
 			"discountValue": 0.1,
@@ -159,7 +159,7 @@
 		"description": "Naranjas",
 		"category": "Frutas",
 		"brand": "Dmitry Demidov",
-		"price": 140,
+		"price": 13,
 		"extra": {
 			"stock": 100,
 			"hasDiscount": true,
@@ -174,7 +174,7 @@
 		"description": "Papa",
 		"category": "Verduras",
 		"brand": "Pixabay",
-		"price": 75,
+		"price": 7,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,
@@ -188,7 +188,7 @@
 		"description": "Peras",
 		"category": "Frutas",
 		"brand": "Marta Dzedyshko",
-		"price": 140,
+		"price": 4,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,
@@ -202,7 +202,7 @@
 		"description": "Pomelo",
 		"category": "Frutas",
 		"brand": "Pixabay",
-		"price": 150,
+		"price": 5,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,
@@ -216,7 +216,7 @@
 		"description": "Zanahoria",
 		"category": "Verduras",
 		"brand": "Mali Maeder",
-		"price": 80,
+		"price": 8,
 		"extra": {
 			"hasDiscount": false,
 			"discountValue": 0,

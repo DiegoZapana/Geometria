@@ -24,6 +24,7 @@ class Historian {
 
     addNewBuy(newBuy) {
         this.historian.push(newBuy);
+        this.saveHistory(); 
     }
 
     saveHistory() {
@@ -60,7 +61,7 @@ class Historian {
             }
 
             $(summary).text(`Compra - ${entry.time}`);
-            $(totalP).text(`Total: $${entry.data.total}`);
+            $(totalP).text(`Total: S/${entry.data.total}`);
             $(details).append(summary, entryList, totalP);
 
             return details;

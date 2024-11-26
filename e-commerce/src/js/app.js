@@ -55,6 +55,11 @@ HTML_FORM.form.submit(cancelSubmit);
 // ELIMINAR HISTORIAL DE COMPRAS //
 HTML_HISTORIAL.removeBtn.click(deleteHistoryEvent);
 
+// REDIRECCIONAR AL HTML DE GRÁFICAS
+$("#sales-btn").click(() => {
+  window.location.href = "grafica.html";
+});
+
 // ------------------------------------------------------------ //
 
 // ---------------------------- FUNCIONES DE EVENTOS ------------------------ //
